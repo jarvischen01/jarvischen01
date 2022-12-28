@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I am a Lecturer in Social and Behavioral Sciences at the Harvard T.H. Chan School of Public Health
+
 <!--
 **jarvischen01/jarvischen01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
