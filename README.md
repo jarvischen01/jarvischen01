@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am a Lecturer in Social and Behavioral Sciences at the Harvard T.H. Chan School of Public Health
+I am a Senior Lecturer in Social and Behavioral Sciences at the Harvard T.H. Chan School of Public Health and Associate Director of the PhD Program in Population Health Sciences
 
 <!--
 **jarvischen01/jarvischen01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
